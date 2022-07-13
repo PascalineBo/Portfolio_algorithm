@@ -1,6 +1,6 @@
 # OC_Projet7
 Mission:
-Sujet : Algorithme pour maximiser nos bénéfices
+"Sujet : Algorithme pour maximiser nos bénéfices
 
 Bonjour,
 
@@ -48,6 +48,13 @@ Parce que nous voulons être aussi transparents que possible pour nos clients, n
 
 Merci ! 
 Robin Greene
-Tech Lead, AlgoInvest&Trade
+Tech Lead, AlgoInvest&Trade"
 
 Requirements:
+(i) Pour fonctionner le code a besoin:
+
+de Python3: https://www.python.org/downloads/
+
+Faites un git clone 
+
+Pour teste bruteforce.py et optimized.py, vous pouvez importer automatiquement le fichier input.txt grâce à votre IDE
