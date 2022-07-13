@@ -55,6 +55,7 @@ Requirements:
 
 de Python3: https://www.python.org/downloads/
 
-Faites un git clone 
+Tapez dans votre terminal:
+$git clone https://github.com/MargueriteEffren/OC_Projet7.git
 
-Pour teste bruteforce.py et optimized.py, vous pouvez importer automatiquement le fichier input.txt grâce à votre IDE
+Pour tester bruteforce.py et optimized.py, vous pouvez importer automatiquement le fichier input.txt grâce à votre IDE
