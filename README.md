@@ -1,4 +1,4 @@
-# OC_Projet7
+# Algorithme d'optimisation de portefeuille d'actions
 Mission:
 "Sujet : Algorithme pour maximiser nos bénéfices
 
