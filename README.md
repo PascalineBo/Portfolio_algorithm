@@ -1,6 +1,6 @@
 # Algorithme d'optimisation d'un portefeuille d'actions
-Mission:
-  "Sujet : Algorithme pour maximiser nos bénéfices
+**Mission:
+  "Sujet : Algorithme pour maximiser nos bénéfices**
 
   Bonjour,
 
