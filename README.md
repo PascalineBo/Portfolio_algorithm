@@ -39,11 +39,14 @@
       Action-19	24 	21%
       Action-20	114	18%
   Je sais que vous êtes nouveau dans le monde de la finance, alors voici un aperçu de la signification de chaque colonne : 
-
- -  Actions – Chaque "Action-#" représente une action dans une entreprise différente. Si vous imaginez la valeur d'une entreprise comme étant une tarte  entière, chaque action est comme une part de cette tarte. 
- -  Coût par action (en euros) – Le coût d'une action de l'entreprise en euros.
- -  Bénéfice (après 2 ans) – Il s'agit du bénéfice réalisé par le titulaire de l'action après 2 ans d'investissement dans l'entreprise. Le bénéfice est un pourcentage du coût de l'action.  
-  - Parce que nous voulons être aussi transparents que possible pour nos clients, nous voulons que le programme essaie toutes les différentes combinaisons d'actions qui correspondent à nos contraintes, et choisisse le meilleur résultat.  Le programme doit donc lire un fichier contenant des informations sur les actions, explorer toutes les combinaisons possibles et afficher le meilleur investissement.
+  
+- Actions – Chaque "Action-#" représente une action dans une entreprise différente. Si vous imaginez la valeur d'une entreprise comme étant une tarte  entière, chaque action est comme une part de cette tarte. 
+ 
+- Coût par action (en euros) – Le coût d'une action de l'entreprise en euros.
+ 
+- Bénéfice (après 2 ans) – Il s'agit du bénéfice réalisé par le titulaire de l'action après 2 ans d'investissement dans l'entreprise. Le bénéfice est un pourcentage du coût de l'action.  
+ 
+- Parce que nous voulons être aussi transparents que possible pour nos clients, nous voulons que le programme essaie toutes les différentes combinaisons d'actions qui correspondent à nos contraintes, et choisisse le meilleur résultat.  Le programme doit donc lire un fichier contenant des informations sur les actions, explorer toutes les combinaisons possibles et afficher le meilleur investissement.
 
  
   Merci ! 
