@@ -60,9 +60,11 @@
 </li>
 <li>
  
- > `python bruteforce.py` ou 
- > `python optimized.py` ou 
- > `python optimized2.py`
+> `python bruteforce.py` ou 
+ 
+> `python optimized.py` ou 
+ 
+> `python optimized2.py`
  </li>
  <li> Pour tester *bruteforce.py* et *optimized.py*, vous pouvez importer automatiquement le fichier *input.txt* grâce à votre IDE (sinon le programme vous demande de tout saisir à la main pour 20 actions)
 </li>
