@@ -59,4 +59,5 @@ Mission:
 </li>
 <li> Pour tester bruteforce.py et optimized.py, vous pouvez importer automatiquement le fichier input.txt grâce à votre IDE
 </li>
-<i>Le fichier optimized2.py importe ses données en lisant le fichier 'dataset1_Python+P7.csv' (si vous voulez traiter un autre fichier csv avec la même organisation de données, il suffit changer le nom du fichier dans le code de la fonction get_shares_data)</li>
+<i>Le fichier optimized2.py importe ses données en lisant le fichier 'dataset1_Python+P7.csv' 
+  (si vous voulez traiter un autre fichier csv avec la même organisation de données, il suffit changer le nom du fichier dans le code de la fonction get_shares_data)</li>
