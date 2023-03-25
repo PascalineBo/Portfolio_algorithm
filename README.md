@@ -16,9 +16,9 @@
 
   Vous trouverez ci-dessous une liste des actions sur lesquelles nous travaillons : 
 
-  Actions #	Coût par action (en euros)	Bénéfice (après 2 ans)
-  Action-1	20	5%
-  Action-2	30	10%
+  **Actions #	Coût par action (en euros)	Bénéfice (après 2 ans)**
+      Action-1	20	5%
+      Action-2	30	10%
   Action-3	50	15%
   Action-4	70	20%
   Action-5	60	17%
