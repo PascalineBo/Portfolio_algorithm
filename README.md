@@ -50,7 +50,7 @@ Mission:
   Tech Lead, AlgoInvest&Trade"
 
 ## Requirements:
- Pour fonctionner le code a besoin: de **[Python3](https://www.python.org/downloads/)**
+ Pour fonctionner le code a besoin de: **[Python3](https://www.python.org/downloads/)**
 
 <ol>
 <li> Tapez dans votre terminal:
