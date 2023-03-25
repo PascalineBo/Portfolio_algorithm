@@ -58,6 +58,8 @@
 
 `git clone https://github.com/PascalineBo/Portfolio_algorithm.git`
 </li>
+<li>  puis positionnez vous dans le dossier Porfolio_algorithm (`cd Porfolio_algorithm`)
+   </li> 
 <li>
  
 > `python bruteforce.py` ou 
